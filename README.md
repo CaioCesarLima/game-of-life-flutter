@@ -1,10 +1,9 @@
-# game_of_life
+# Conway´s Game of Life
 
-A new Flutter project.
+A implematation of Conway´s game of life with flutter and Atomic State
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+<img src="/assets/conway-game-of-life.png">
 
 A few resources to get you started if this is your first Flutter project:
 
